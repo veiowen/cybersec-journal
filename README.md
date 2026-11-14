@@ -1,3 +1,32 @@
+🛡️ Cybersecurity Learning Journal
+
+Hi! I'm learning cybersecurity and keeping a public journal: daily hands-on practice, write-ups, and lessons learned.
+
+🎯 Goal
+
+Focus area: (pick one: SOC / Pentesting / DFIR / AppSec)
+
+📊 Progress
+Platform	Completed	Profile
+TryHackMe	0 rooms	link
+Hack The Box	0	link
+🗂️ Repository Structure
+writeups/: room and lab write-ups (no flags, no spoilers)
+notes/: study notes by topic (networking, Linux, web, crypto)
+scripts/: small scripts and tools I wrote
+LOG.md: daily learning log
+🧰 Skills
+Networking: TCP/IP, DNS, HTTP
+Linux: basic administration
+Tools: nmap, Wireshark, Burp Suite
+Languages: Python, Bash
+📫 Contact
+
+LinkedIn: [link](https://www.linkedin.com/in/%D0%B6%D0%B0%D0%BD%D1%81%D0%B0%D1%8F-%D0%BC%D0%B0%D1%88%D0%B0%D1%80%D1%83%D0%BF%D0%BE%D0%B2%D0%B0-388425253?utm_source=share_via&utm_content=profile&utm_medium=member_ios) · Email: zhans3011@gmail.com Telegram: [_ник_](https://t.me/veiowen)
+
+
+
+
 # Cybersecurity Learning Journal
 
 изучаю кибербезопасность и веду открытый журнал: каждый день практика, разборы и выводы.
@@ -25,3 +54,4 @@
 
 ## 📫 Контакты
 LinkedIn: [_ссылка_](https://www.linkedin.com/in/%D0%B6%D0%B0%D0%BD%D1%81%D0%B0%D1%8F-%D0%BC%D0%B0%D1%88%D0%B0%D1%80%D1%83%D0%BF%D0%BE%D0%B2%D0%B0-388425253?utm_source=share_via&utm_content=profile&utm_medium=member_ios) · Telegram: [_ник_](https://t.me/veiowen)
+Email: zhans3011@gmail.com 
