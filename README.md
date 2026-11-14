@@ -10,6 +10,11 @@ Focus area: _(pick one: SOC / Pentesting / DFIR / AppSec)_
 |----------|-----------|---------|
 | TryHackMe | 0 rooms | [link](#) |
 | Hack The Box | 0 | [link](#) |
+| ssh-brute-force-detection | | [link](#) |
+
+## 📊 My projects
+| Platform                | What it does |
+|ssh-brute-force-detection|The program build analyzes system logs and identifies suspicious login attempts.|
 
 ## 🗂️ Repository Structure
 - `writeups/`: room and lab write-ups (no flags, no spoilers)
